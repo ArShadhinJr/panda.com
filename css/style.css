@@ -1,0 +1,31 @@
+*  {
+    font-family: 'Poppins', sans-serif;
+}
+.pink {
+    color: rgb(236, 70, 98);
+}
+.bg-web {
+    background-color: #FEEAE9;
+}
+.bg-pink {
+    background-color: rgb(236, 70, 98);
+}
+.b-rad {
+    border-radius: 15px ;
+}
+.bg-orange {
+    background-color: orange;
+}
+.bg-orchid {
+    background-color: orchid;
+}
+.bg-blue {
+    background-color: blue;
+}
+.btn-web {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+.card-footer {
+    background-color: white;
+    border: none;
+}
